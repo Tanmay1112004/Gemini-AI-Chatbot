@@ -17,7 +17,10 @@ An interactive **AI-powered chatbot** built using **Google Gemini (gemini-2.5-fl
 
 ## 📸 Demo
 
-![Chatbot Screenshot](https://unblast.com/wp-content/uploads/2021/07/Chatbot-Illustration-1-1536x1306.jpg)
+![Chatbot Screenshot 1](https://github.com/Tanmay1112004/Gemini-AI-Chatbot/raw/main/screenshots/Screenshot%202025-09-27%20150035.png)
+
+![Chatbot Screenshot 2](https://github.com/Tanmay1112004/Gemini-AI-Chatbot/raw/main/screenshots/Screenshot%202025-09-27%20150207.png)
+
 
 ---
 
